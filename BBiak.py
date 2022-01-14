@@ -11,7 +11,7 @@ from time import time
 import discord, asyncio, random, re, time, os, bs4, urllib, requests, re
 import datetime
 
-TOKEN = 'OTIzMDA3NTYxMDc3MjQ4MDEw.YcJvxw.KpmNOGhLKuzvVf7_ml7MGd1fVRg'
+
 
 client = discord.Client()
 
