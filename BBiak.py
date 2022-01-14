@@ -232,4 +232,4 @@ async def on_message(message):
                         
                         await message.channel.send(str)
 
-client.run(TOKEN)
+client.run('TOKEN')
