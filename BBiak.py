@@ -10,7 +10,7 @@ import random
 from time import time
 import discord, asyncio, random, re, time, os, bs4, urllib, requests, re
 import datetime
-
+import os
 
 
 client = discord.Client()
@@ -232,4 +232,4 @@ async def on_message(message):
                         
                         await message.channel.send(str)
 
-client.run('TOKEN')
+client.run(os.environ['TOKEN'])
