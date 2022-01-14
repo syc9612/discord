@@ -1,6 +1,4 @@
-!pip install discord.py
-!pip install asyncio
-!pip install nest_asyncio 
+
 import nest_asyncio 
 nest_asyncio.apply()
 import discord
