@@ -1,0 +1,2 @@
+test_pushpull
+pull push 로깅 여부는 확인해보겠습니다
